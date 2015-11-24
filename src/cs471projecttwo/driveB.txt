@@ -1,0 +1,6 @@
+d /Documents directory:/Documents
+i /Documents/cs471_homework.doc Homework_for_cs471_class
+i /Documents/mealplan.doc for_making_weekly_meal_plans
+i /Documents/last_Thanksgiving.jpeg a_photo_from_last_year's_thanksgiving_dinner
+i /Documents/May_creditcard_bill.xls a_spreadsheet_credit_card_statement
+i /Documents/Thurs_Bio_lecture.mp4 a_video_recording_of_lecture

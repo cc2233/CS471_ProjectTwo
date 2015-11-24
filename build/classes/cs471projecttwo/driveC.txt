@@ -1,0 +1,6 @@
+d /Programs directory:/Programs
+i /Programs/Image_Editor.exe image_editing_software
+i /Programs/Calculator.exe calculator_program_with_basic_features
+i /Programs/Scientific_Calculator.exe advanced_scientific_calculator
+i /Programs/MoneyManager.exe software_for_managing_personal_finances
+i /Programs/Word_Processor.zip a_word_processor_suite

@@ -1,0 +1,12 @@
+d /Documents directory:/Documents
+i /Documents/cs471-homework.doc homework_file_for_CS471_class
+d /Documents/meals directory:/Documents/meals
+i /Documents/meals/mealplan.doc file_for_making_meal_plans
+i /Documents/christmas2006.jpeg photo_from_Christmas_of_2006
+i /Documents/May-creditcard-bill.xls spreadsheet_statement_for_credit_card_bill
+d /Personal directory:/Personal
+i /Personal/Thurs_Bio_lecture.mp4 video_lecture_from_Biology_class
+v /Personal/external_Files driveB
+i /file03.txt the_3rd_file_in_root_directory
+d /Mount directory:/Mount
+v /Mount/DriveC_mount_point driveC
